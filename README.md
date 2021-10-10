@@ -18,18 +18,34 @@ Feel free to contribute to this repository by either submitting your own guideli
 The Guideline files do not follow any particular structure except for the file name which needs to be `guidelines_<language>.md` (`<language>` would be the short code of the language).
 
 It is recommended to follow this general structure in the file itself.  
-```markdown
+````markdown
 # Guidelines for <language>
 Short summary about this file like for what language it is meant.
 
 ## Point 1
 Explain this point here, optionally with some examples to justify it further.
 
+Example:  <!-- Used with a patch codeblock below to show a good and bad example -->
+```patch
+# Original english string
+
++ Good translated string
+- Bad translated string
+```
+
 ## Point 2
 Same as point 1.
 
-<!-- Etc. -->
+Example:  
+```patch
+# Another oiginal english string
+
++ Another good translated string
+- Another bad translated string
 ```
+
+<!-- Etc. -->
+````
 
 ## Current Guidelines
 
