@@ -8,14 +8,14 @@ The guidelines in this repository are **not** considered official. They are made
 As the name suggests are they guidelines and not rules.
 
 ## Structure
-Each language has their own `guideline_<language>.md` file explaining stuff. For easier understanding is each file written in the language of which Revolt is translated to.  
-This means that a `guideline_de.md` file is written in german, while a `guideline_fr.md` is written in french.
+Each language has their own `guidelines_<language>.md` file explaining stuff. For easier understanding is each file written in the language of which Revolt is translated to.  
+This means that a `guidelines_de.md` file is written in german, while a `guidelines_fr.md` is written in french.
 
 ## Contributing
 Feel free to contribute to this repository by either submitting your own guidelines or contributing to an existing one (i.e. fixing grammar mistakes).
 
 ### Structure
-The Guideline files do not follow any particular structure except for the file name which needs to be `guideline_<language>.md` (`<language>` would be the short code of the language).
+The Guideline files do not follow any particular structure except for the file name which needs to be `guidelines_<language>.md` (`<language>` would be the short code of the language).
 
 It is recommended to follow this general structure in the file itself.  
 ```markdown
@@ -33,7 +33,7 @@ Same as point 1.
 
 ## Current Guidelines
 
-[![badge_german]](./guideline_de.md)
+[![badge_german]](./guidelines_de.md)
 
 
 <!-- Badge URLs -->
