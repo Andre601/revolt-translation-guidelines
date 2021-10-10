@@ -10,7 +10,7 @@ Beispiel:
 ```patch
 # You don't have permission to send messages in this channel.
 
-+ Du hast nicht die nötige Berechtigungen, Nachrichten in diesem Kanal zu versenden.
++ Du hast nicht die nötigen Berechtigungen, Nachrichten in diesem Kanal zu versenden.
 - Sie haben nicht die nötigen Berechtigungen, Nachrichten in diesem Kanal zu versenden.
 ```
 
