@@ -16,7 +16,7 @@ Beispiel:
 
 ## Verwende nur ein geschlecht
 Wenn ein Wort sowohl eine männliche als auch eine weibliche Variante hat, sollte nur eine verwendet werden.  
-Begriffe wie `Benutzer:in` machen nur das lesen schwerer und bringen keinen nutzen. Niemand wird sich darüber aufregen, wenn nur `Benutzer` steht, welches eh auch ein neutrales wort sein kann (z.B. `die Benutzer`).
+Begriffe wie `Benutzer:in` machen nur das lesen schwerer und bringen keinen nutzen. Niemand wird sich aufregen wenn nur `Benutzer` steht statt `Benutzer:in` und wenn doch, dann müsste man sich auch über das fehlen von `Benutzenden` aufregen, was eh keiner tut.
 
 Beispiel:  
 ```patch
